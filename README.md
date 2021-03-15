@@ -19,6 +19,18 @@ majored in mathematics education at first, switched my path to software engineer
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
+
+## Career
+| **Type** | **Date** | **Contents** | **Organization** |
+| ------ | ------ | :------: | :------: |
+| 🎓 Education | 2013. 3 ~ 2020. 8 | Department of Mathematics education | Inha University |
+| 🎓 Education | 2020. 8 ~ 2021. 2 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
+| 🎓 Education | 2021. 1 ~ 2021. 2 | Vanilla JS Coding bootcamp | Nomad Coders |
+
+## How to reach me
+<img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beegramin9@gmail.com"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/beestron9/"/></a>&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%90%ED%83%9C-%EC%B5%9C-136986172/"/></a>&nbsp;
 <!--
 **beegramin9/beegramin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
