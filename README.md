@@ -1,5 +1,5 @@
 ## Hey there, I'm Wontae 👋
-majored in mathematics education at first, switched my path to software engineering and now mainly working on Back-end programming and Data science :)
+I am an enthusiastic software developer eager to learn new skills and technologies, also knowledgeable in software applications, algorithms, development techniques, and data structures.
 
 ## 🛠Technology Stack⚒
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
