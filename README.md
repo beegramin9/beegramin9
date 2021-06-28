@@ -25,7 +25,6 @@ I am an enthusiastic software developer eager to learn new skills and technologi
 | ------ | ------ | :------: | :------: |
 | 🎓 Education | 2013. 3 ~ 2020. 8 | Department of Mathematics education | Inha University |
 | 🎓 Education | 2020. 8 ~ 2021. 2 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
-| 🎓 Education | 2021. 1 ~ 2021. 2 | Vanilla JS Coding bootcamp | Nomad Coders |
 
 ## How to reach me
 <img src="https://img.shields.io/badge/GMail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beegramin9@gmail.com"/></a>&nbsp;
