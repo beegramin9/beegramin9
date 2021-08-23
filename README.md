@@ -2,18 +2,16 @@
 <div style="display: flex">
 <img src="https://user-images.githubusercontent.com/58083434/130402392-0859a094-4655-45d0-b184-a07b89a7ee23.gif" width="300" height="200">
 <img src="https://user-images.githubusercontent.com/58083434/130402483-77c32103-ace9-4db4-bd9a-fa6680eecdc1.gif" width="300" height="200">
-</div>
-<center>[Check out Landing page](https://www.wontaechoi.tech/)</center>  [Check out Projects & Blog](https://www.wontaeblog.space/projects/)
+</div><br/>
+[Check out Landing page](https://www.wontaechoi.tech/)&nbsp;
+[Check out Projects & Blog](https://www.wontaeblog.space/projects/)&nbsp;
 
-
-My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making quite toy projects in various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English. If you would like to see my projects, be sure to check out https://www.wontaeblog.space/projects/ 
-
-프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
+<br/>
+&nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making quite toy projects in various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
+<br/>
+&nbsp;프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
 독일로의 교환학생 경험과, 취미로 영어회화를 공부하고 있어 영어로 된 공식 개발 문서를 편하게 이해할 수 있으며,
 해외 개발자들과의 소통 혹은 전반적으로 영어 소통이 필요할 때 장벽 없이 자유롭게 참가할 수 있습니다.
-프로젝트들은 제 개인 블로그(https://www.wontaeblog.space/projects/)에서 확인하실 수 있으며,
-이외 스택&연혁 등은 제 소개 웹사이트(https://www.wontaechoi.tech/)에서 확인하실 수 있습니다.
-
 
 ## 🛠Technology Stack⚒
 | **Programming Language** | **Front End** | **Back end** | **Database** |
