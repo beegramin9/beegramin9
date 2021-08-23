@@ -1,15 +1,9 @@
 ## Hi, Glad you are here! 👋
-<div style="display: flex">
-    <img src="https://user-images.githubusercontent.com/58083434/130402392-0859a094-4655-45d0-b184-a07b89a7ee23.gif" width="350" height="200">
-    <img src="https://user-images.githubusercontent.com/58083434/130402483-77c32103-ace9-4db4-bd9a-fa6680eecdc1.gif" width="350" height="200">
-</div>
 
-<a href="https://www.wontaechoi.tech">Check out Landing Page</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.wontaeblog.space/projects">Check out Projects & Blog</a>
+| <img src="https://user-images.githubusercontent.com/58083434/130402392-0859a094-4655-45d0-b184-a07b89a7ee23.gif" width="350" height="200"> | <img src="https://user-images.githubusercontent.com/58083434/130402483-77c32103-ace9-4db4-bd9a-fa6680eecdc1.gif" width="350" height="200"> | 
+| :------: | :------: | 
+| <a href="https://www.wontaechoi.tech">Check out Landing Page</a> | <a href="https://www.wontaeblog.space/projects">Check out Projects & Blog</a> | 
 
-
-<br/><br/>
 &nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making quite toy projects in various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
 <br/><br/>
 &nbsp;프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
