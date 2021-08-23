@@ -1,29 +1,34 @@
-## Hey there, I'm Wontae 👋
-I am an enthusiastic software developer eager to learn new skills and technologies, also knowledgeable in software applications, algorithms, development techniques, and data structures.
+## Hi, Glad you are here! 👋
+My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making quite toy projects in various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English. If you would like to see my projects, be sure to check out https://www.wontaeblog.space/projects/ 
+
+프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
+독일로의 교환학생 경험과, 취미로 영어회화를 공부하고 있어 영어로 된 공식 개발 문서를 편하게 이해할 수 있으며,
+해외 개발자들과의 소통 혹은 전반적으로 영어 소통이 필요할 때 장벽 없이 자유롭게 참가할 수 있습니다.
+프로젝트들은 제 개인 블로그(https://www.wontaeblog.space/projects/)에서 확인하실 수 있으며,
+이외 스택&연혁 등은 제 소개 웹사이트(https://www.wontaechoi.tech/)에서 확인하실 수 있습니다.
+
 
 ## 🛠Technology Stack⚒
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp;
+| **Programming Language** | **Front End** | **Back end** | **Database** |
+| :------: | :------: | :------: | :------: |
+| <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp; | <img src='https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white'/></a>&nbsp;<img src='https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white'/></a>&nbsp;<img src='https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white'/></a>&nbsp;<img src='https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-Components&logoColor=white'/></a>&nbsp; | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Express-FF7200?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp;  | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp; |
+
+<!-- <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Sklearn-150458?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
+-->
 
-## Career
+## Education & Expierence
 | **Type** | **Date** | **Contents** | **Organization** |
 | ------ | ------ | :------: | :------: |
 | 🎓 Education | 2013. 3 ~ 2020. 8 | Department of Mathematics education | Inha University |
+| 🎓 Education | 2018. 1 ~ 2019. 2 | Exchange Student Program | Carl Von Ossietzky University of Oldenburg |
 | 🎓 Education | 2020. 8 ~ 2021. 2 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
 
 ## How to reach me
