@@ -4,7 +4,7 @@
 | :------: | :------: | 
 | <a href="https://www.wontaechoi.tech">Check out Landing Page</a> | <a href="https://www.wontaeblog.space/projects">Check out Projects & Blog</a> | 
 
-&nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making quite toy projects in various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
+&nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making toy projects for various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
 <br/><br/>
 &nbsp;프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
 독일로의 교환학생 경험과, 취미로 영어회화를 공부하고 있어 영어로 된 공식 개발 문서를 편하게 이해할 수 있으며,
