@@ -2,8 +2,7 @@
 
 | <img src="https://user-images.githubusercontent.com/58083434/130402392-0859a094-4655-45d0-b184-a07b89a7ee23.gif" width="350" height="200"> | <img src="https://user-images.githubusercontent.com/58083434/130402483-77c32103-ace9-4db4-bd9a-fa6680eecdc1.gif" width="350" height="200"> | 
 | :------: | :------: | 
-| <a href="https://www.wontaechoi.tech">Check out Landing Page</a> | <a href="https://www.wontaeblog.space/projects">Check out Projects & Blog</a> | 
-| [Github Repo](https://github.com/beegramin9/NextJS-Ytube-PortfolioWebsite) | [Github Repo](https://github.com/beegramin9/Gatsby-Official-Tutorial) |
+| <a href="https://www.wontaechoi.tech">Check out Landing Page</a>([Github Repo](https://github.com/beegramin9/NextJS-Ytube-PortfolioWebsite)) | <a href="https://www.wontaeblog.space/projects">Check out Projects & Blog</a>([Github Repo](https://github.com/beegramin9/NextJS-Ytube-PortfolioWebsite)) | 
 
 &nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making toy projects for various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
 <br/><br/>
