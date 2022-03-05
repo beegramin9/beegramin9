@@ -32,7 +32,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 | ------ | ------ | ------ | ------ |
 | 🛠 Work | 2021. 12 ~ Current | junior Frontend & Dapp developer | Blockchain Advisory Firm |
-| 🎓 Education | 2020. 08 ~ 2021. 02 | Web development/Data Science Coding bootcamp | Seoul HOSEO Technical College |
+| 🎓 Education | 2020. 08 ~ 2021. 02 | Web development Coding bootcamp | Seoul HOSEO Technical College |
 | 🎓 Education | 2018. 01 ~ 2019. 02 | Exchange Student Program | Carl Von Ossietzky University of Oldenburg |
 | 🎓 Education | 2013. 03 ~ 2020. 08 | Department of Mathematics education | Inha University |
 
