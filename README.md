@@ -6,9 +6,14 @@
 
 &nbsp;My name is  Wontae, an enthusiastic software developer, particulary focused on Front-end development. I have accrued some valuable experiences making toy projects for various fields. From the one year experience of exchange student in Germany, I can read through and understand official documentations of different stacks and have no difficulty communicating with fellow developers in English.
 <br/><br/>
-&nbsp;프론트엔드 위주의 여러 토이 프로젝트를 만들며 바닐라 자바스크립트와 리액트 개발 경험을 쌓았습니다.
-독일로의 교환학생 경험과, 취미로 영어회화를 공부하고 있어 영어로 된 공식 개발 문서를 편하게 이해할 수 있으며,
-해외 개발자들과의 소통 혹은 전반적으로 영어 소통이 필요할 때 장벽 없이 자유롭게 참가할 수 있습니다.
+&nbsp;안녕하세요. 주니어 프론트엔드 개발자입니다. <br/>
+1. 
+사이드 프로젝트를 통해 Express React.js, Node.js Express 개발 경험을 쌓았습니다. <br/>
+2. 
+영어에 거리낌이 없어 영어로 된 공식 개발 문서를 문제없이 읽고 이해할 수 있으며, 현 직장에서 해외 외주 개발사 프로젝트 매니저와 개발자들, 디자이너들과 소통, 협업하여 애플리케이션 프로젝트 매니징에 참여한 경험이 있습니다. <br/>
+3. 블록체인, 채굴·보상, 작업증명·지분증명·권한증명, 비트코인·이더리움 백서, 코인과 토큰의 차이와 ERC, Web3, 암호화폐 경제 시스템(crypto economy), DEFI
+등 블록체인 기술과 시장을 이해하고 있습니다.
+
 
 ## 🛠Technology Stack⚒
 | **Programming Language** | **Front End** | **Back end** | **Database** |
