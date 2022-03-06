@@ -10,7 +10,7 @@
 
 2. I have participated in an mobile application developing project management process in communication and collaboration with project managers, developers, and designers of an overseas outsourced system integration company. Therefore, I can have professional conversation with diffrent roles, also understand official development documents in English seamlessly.
 
-3. I have general knowledge about the blockchain technology and market such as Blockchain, Mining·Reward, POW·POS·POA, Bitcoin·Ethereum White paper, Coins·tokens·ERC, Web3, Crypto economy, DEFI.
+3. I have general knowledge about the blockchain technology and market such as Blockchain, mining·reward, POW·POS·POA, Bitcoin·Ethereum white paper, coins·tokens·ERC, Web3, crypto economy, DEFI.
 
 ## Technology Stack
 | **Programming Language** | **Front End** | **Back end** | **Database** |
